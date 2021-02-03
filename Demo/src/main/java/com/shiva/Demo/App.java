@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-
+System.out.println("Thx mama");
     System.out.println("Welcome to first Git Hub Practice");
     }
 }
